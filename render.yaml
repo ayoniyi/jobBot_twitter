@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: twitter-job-bot
+    env: python3
+    runtime: python-3.12.0
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    plan: starter
+    envVars:
+      - key: TWITTER_BEARER_TOKEN
+        sync: false
+      - key: TWITTER_API_KEY
+        sync: false
+      - key: TWITTER_API_SECRET
+        sync: false
+      - key: TWITTER_ACCESS_TOKEN
+        sync: false
+      - key: TWITTER_ACCESS_TOKEN_SECRET
+        sync: false
+      - key: YOUR_TWITTER_USER_ID
+        sync: false
+      - key: NOTIFICATION_WEBHOOK_URL
+        sync: false
+    disk:
+      name: bot-data
+      mountPath: /opt/render/project/src
+      sizeGB: 1

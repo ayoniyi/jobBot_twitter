@@ -1,0 +1,169 @@
+2025-06-08 22:20:39,100 - INFO - Twitter API clients initialized successfully
+2025-06-08 22:20:39,107 - INFO - Database initialized successfully
+2025-06-08 22:20:39,108 - INFO - Starting Twitter job monitoring bot...
+2025-06-08 22:20:39,108 - INFO - Starting search cycle...
+2025-06-08 22:20:40,829 - INFO - Found 100 tweets to process
+2025-06-08 22:20:40,830 - INFO - Tweet 1931804133465489540 excluded: only 378 followers
+2025-06-08 22:20:40,831 - INFO - Tweet 1931798650096926806 excluded: only 194 followers
+2025-06-08 22:20:40,832 - INFO - Tweet 1931787213366538399 excluded: only 230 followers
+2025-06-08 22:20:41,230 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:41,231 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:41,232 - INFO - New job found: @winatalent_fa - ['frontend engineer']
+2025-06-08 22:20:41,232 - INFO - Tweet 1931777018087329888 excluded: only 25 followers
+2025-06-08 22:20:41,233 - INFO - Tweet 1931775827064000964 excluded: only 443 followers
+2025-06-08 22:20:41,234 - INFO - Tweet 1931773425552613834 excluded: only 232 followers
+2025-06-08 22:20:41,235 - INFO - Tweet 1931768198371893248 excluded: only 904 followers
+2025-06-08 22:20:41,237 - INFO - Tweet 1931767908381954237 excluded: only 443 followers
+2025-06-08 22:20:41,238 - INFO - Tweet 1931766757699854567 excluded: only 63 followers
+2025-06-08 22:20:41,521 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:41,521 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:41,523 - INFO - New job found: @AnkitStivastava - ['frontend developer']
+2025-06-08 22:20:41,523 - INFO - Tweet 1931751896395497974 excluded: only 668 followers
+2025-06-08 22:20:41,524 - INFO - Tweet 1931750788361322689 excluded: only 569 followers
+2025-06-08 22:20:41,526 - INFO - Tweet 1931750345430147519 excluded: only 569 followers
+2025-06-08 22:20:41,527 - INFO - Tweet 1931749175231664514 excluded: only 90 followers
+2025-06-08 22:20:41,796 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:41,800 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:41,806 - INFO - New job found: @interestedfyi - ['frontend engineer']
+2025-06-08 22:20:41,807 - INFO - Tweet 1931740614711988663 excluded: only 7 followers
+2025-06-08 22:20:42,103 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:42,104 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:42,107 - INFO - New job found: @Javascriptjobbs - ['frontend engineer']
+2025-06-08 22:20:42,107 - INFO - Tweet 1931713424582492502 excluded: only 21 followers
+2025-06-08 22:20:42,364 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:42,365 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:42,366 - INFO - New job found: @ReactNext - ['frontend engineer']
+2025-06-08 22:20:42,366 - INFO - Tweet 1931700500107579455 excluded: only 214 followers
+2025-06-08 22:20:42,367 - INFO - Tweet 1931689051007930509 excluded: only 2 followers
+2025-06-08 22:20:42,368 - INFO - Tweet 1931688947530228182 excluded: only 716 followers
+2025-06-08 22:20:42,629 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:42,630 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:42,633 - INFO - New job found: @Ganesh__JSP - ['frontend developer']
+2025-06-08 22:20:42,633 - INFO - Tweet 1931673845896765464 excluded: only 13 followers
+2025-06-08 22:20:42,898 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:42,898 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:42,901 - INFO - New job found: @Javascriptjobbs - ['frontend developer']
+2025-06-08 22:20:43,147 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:43,147 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:43,150 - INFO - New job found: @PratikKadam_ - ['frontend engineer']
+2025-06-08 22:20:43,151 - INFO - Tweet 1931657745683583434 excluded: only 281 followers
+2025-06-08 22:20:43,484 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:43,485 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:43,486 - INFO - New job found: @nitesh_singh5 - ['frontend developer']
+2025-06-08 22:20:43,486 - INFO - Tweet 1931645451637231653 excluded: only 198 followers
+2025-06-08 22:20:43,487 - INFO - Tweet 1931644243954860477 excluded: only 198 followers
+2025-06-08 22:20:43,488 - INFO - Tweet 1931643690558120041 excluded: only 198 followers
+2025-06-08 22:20:43,489 - INFO - Tweet 1931643464254464016 excluded: only 198 followers
+2025-06-08 22:20:43,492 - INFO - Tweet 1931625428709486960 excluded: only 11 followers
+2025-06-08 22:20:43,493 - INFO - Tweet 1931625073967857968 excluded: only 4 followers
+2025-06-08 22:20:43,753 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:43,754 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:43,755 - INFO - New job found: @ankushdharkar - ['frontend engineers', 'frontend engineer']
+2025-06-08 22:20:43,755 - INFO - Tweet 1931623613213606031 excluded: only 5 followers
+2025-06-08 22:20:43,756 - INFO - Tweet 1931623611225567527 excluded: only 5 followers
+2025-06-08 22:20:44,149 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:44,149 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:44,150 - INFO - New job found: @onlyiude - ['frontend developer']
+2025-06-08 22:20:44,150 - INFO - Tweet 1931618240242896925 excluded: only 278 followers
+2025-06-08 22:20:44,151 - INFO - Tweet 1931612581632016642 excluded: only 0 followers
+2025-06-08 22:20:44,430 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:44,430 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:44,432 - INFO - New job found: @interestedfyi - ['frontend engineer']
+2025-06-08 22:20:44,432 - INFO - Tweet 1931608228367835171 excluded: only 31 followers
+2025-06-08 22:20:44,433 - INFO - Tweet 1931601892804825099 excluded: only 802 followers
+2025-06-08 22:20:44,434 - INFO - Tweet 1931597001017393265 excluded: only 105 followers
+2025-06-08 22:20:44,435 - INFO - Tweet 1931596890149437623 excluded: only 9 followers
+2025-06-08 22:20:44,436 - INFO - Tweet 1931596498287927548 excluded: only 153 followers
+2025-06-08 22:20:44,437 - INFO - Tweet 1931596144309866777 excluded: only 7 followers
+2025-06-08 22:20:44,438 - INFO - Tweet 1931584407015419972 excluded: only 2 followers
+2025-06-08 22:20:44,439 - INFO - Tweet 1931582066933518629 excluded: only 13 followers
+2025-06-08 22:20:44,440 - INFO - Tweet 1931581121306751449 excluded: only 153 followers
+2025-06-08 22:20:44,441 - INFO - Tweet 1931577606605828317 excluded: only 60 followers
+2025-06-08 22:20:44,442 - INFO - Tweet 1931576076431749325 excluded: only 11 followers
+2025-06-08 22:20:44,704 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:44,704 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:44,707 - INFO - New job found: @FrontendMaestro - ['frontend developer']
+2025-06-08 22:20:44,707 - INFO - Tweet 1931574343319933040 excluded: only 5 followers
+2025-06-08 22:20:44,708 - INFO - Tweet 1931571882093850920 excluded: only 38 followers
+2025-06-08 22:20:44,709 - INFO - Tweet 1931570347108606143 excluded: only 339 followers
+2025-06-08 22:20:44,711 - INFO - Tweet 1931569604637458740 excluded: only 4 followers
+2025-06-08 22:20:44,712 - INFO - Tweet 1931568586746687870 excluded: only 2 followers
+2025-06-08 22:20:44,713 - INFO - Tweet 1931568404353384848 excluded: only 11 followers
+2025-06-08 22:20:44,714 - INFO - Tweet 1931567240907825234 excluded: only 182 followers
+2025-06-08 22:20:44,715 - INFO - Tweet 1931566816511594613 excluded: only 189 followers
+2025-06-08 22:20:44,716 - INFO - Tweet 1931557733670801497 excluded: only 2 followers
+2025-06-08 22:20:44,717 - INFO - Tweet 1931555402631524857 excluded: only 975 followers
+2025-06-08 22:20:44,718 - INFO - Tweet 1931540079899742501 excluded: only 68 followers
+2025-06-08 22:20:44,975 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:44,976 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:44,977 - INFO - New job found: @jobsincrypto - ['frontend engineer']
+2025-06-08 22:20:45,236 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:45,237 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:45,240 - INFO - New job found: @remoteyeah - ['frontend engineer']
+2025-06-08 22:20:45,243 - INFO - Tweet 1931527030216224950 excluded: only 134 followers
+2025-06-08 22:20:45,507 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:45,508 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:45,512 - INFO - New job found: @abhagsain - ['new frontend']
+2025-06-08 22:20:45,761 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:45,762 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:45,763 - INFO - New job found: @getfrontendjobs - ['frontend developer']
+2025-06-08 22:20:46,019 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:46,020 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:46,022 - INFO - New job found: @getfrontendjobs - ['frontend developer']
+2025-06-08 22:20:46,293 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:46,294 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:46,297 - INFO - New job found: @getfrontendjobs - ['frontend developer']
+2025-06-08 22:20:46,572 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:46,576 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:46,591 - INFO - New job found: @getfrontendjobs - ['frontend developer']
+2025-06-08 22:20:46,885 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:46,885 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:46,887 - INFO - New job found: @WEB3_JOBot - ['frontend engineer']
+2025-06-08 22:20:46,887 - INFO - Tweet 1931485221326561547 excluded: only 158 followers
+2025-06-08 22:20:46,895 - INFO - Tweet 1931484119898169392 excluded: only 326 followers
+2025-06-08 22:20:46,896 - INFO - Tweet 1931477088600793458 excluded: only 78 followers
+2025-06-08 22:20:46,897 - INFO - Tweet 1931471506229575702 excluded: only 127 followers
+2025-06-08 22:20:46,898 - INFO - Tweet 1931471408816644177 excluded: only 283 followers
+2025-06-08 22:20:46,899 - INFO - Tweet 1931469058047615392 excluded: only 222 followers
+2025-06-08 22:20:46,899 - INFO - Tweet 1931463923376562662 excluded: only 197 followers
+2025-06-08 22:20:46,901 - INFO - Tweet 1931460869512200674 excluded: only 103 followers
+2025-06-08 22:20:46,902 - INFO - Tweet 1931460487700463913 excluded: only 127 followers
+2025-06-08 22:20:46,903 - INFO - Tweet 1931459221813334239 excluded: only 101 followers
+2025-06-08 22:20:46,904 - INFO - Tweet 1931454956709589217 excluded: only 87 followers
+2025-06-08 22:20:47,155 - ERROR - Failed to send DM: 401 Unauthorized
+Unauthorized
+2025-06-08 22:20:47,156 - ERROR - Failed to send webhook notification: Invalid URL 'your_webhook_url_here': No scheme supplied. Perhaps you meant https://your_webhook_url_here?
+2025-06-08 22:20:47,158 - INFO - New job found: @itskkoma - ['frontend engineer']
+2025-06-08 22:20:47,159 - INFO - Tweet 1931449363722616976 excluded: only 42 followers
+2025-06-08 22:20:47,160 - INFO - Tweet 1931449206516187383 excluded: only 75 followers
+2025-06-08 22:20:47,161 - INFO - Tweet 1931447200665546963 excluded: account only 352 days old
+2025-06-08 22:20:47,164 - INFO - Tweet 1931446608731705689 excluded: only 910 followers
+2025-06-08 22:20:47,165 - INFO - Tweet 1931442342323539982 excluded: only 22 followers
+2025-06-08 22:20:47,166 - INFO - Search cycle completed. 22 new jobs found.
+2025-06-08 22:39:56,696 - INFO - Twitter API clients initialized successfully
+2025-06-08 22:39:56,701 - INFO - Database initialized successfully
+2025-06-08 22:39:56,701 - INFO - Starting Twitter job monitoring bot...
+2025-06-08 22:39:56,702 - INFO - Starting search cycle...
+2025-06-08 22:40:10,925 - INFO - Found 100 tweets to process
+2025-06-08 22:40:10,933 - INFO - Search cycle completed. 0 new jobs found.
