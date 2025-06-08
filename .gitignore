@@ -1,3 +1,22 @@
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# SQLite databases
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env files
 .env
-.env.local
-*.env
+
+# Secret YAML configs
+*.secret.yaml
+config.yaml
+x
