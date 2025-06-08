@@ -344,29 +344,29 @@ class TwitterJobBot:
                 logger.error(f"Failed to send DM: {e}")
         
         # Try webhook notification
-        if self.notification_webhook:
-            try:
-                payload = {
-                    'text': message,
-                    'tweet_url': tweet_url,
-                    'job_post': {
-                        'tweet_id': job_post.tweet_id,
-                        'author': job_post.author_username,
-                        'followers': job_post.author_followers,
-                        'keywords': job_post.matching_keywords
-                    }
-                }
+        # if self.notification_webhook:
+        #     try:
+        #         payload = {
+        #             'text': message,
+        #             'tweet_url': tweet_url,
+        #             'job_post': {
+        #                 'tweet_id': job_post.tweet_id,
+        #                 'author': job_post.author_username,
+        #                 'followers': job_post.author_followers,
+        #                 'keywords': job_post.matching_keywords
+        #             }
+        #         }
                 
-                response = requests.post(
-                    self.notification_webhook,
-                    json=payload,
-                    timeout=10
-                )
-                response.raise_for_status()
-                logger.info(f"Webhook notification sent for tweet {job_post.tweet_id}")
+        #         response = requests.post(
+        #             self.notification_webhook,
+        #             json=payload,
+        #             timeout=10
+        #         )
+        #         response.raise_for_status()
+        #         logger.info(f"Webhook notification sent for tweet {job_post.tweet_id}")
                 
-            except Exception as e:
-                logger.error(f"Failed to send webhook notification: {e}")
+        #     except Exception as e:
+        #         logger.error(f"Failed to send webhook notification: {e}")
     
     def run_search_cycle(self):
         """Run one search cycle"""
